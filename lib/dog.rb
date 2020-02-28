@@ -21,7 +21,7 @@ class Dog
     breed
   end
 
-  def mutt
+  def Mutt
     Mutt
   end
 end
