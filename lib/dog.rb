@@ -12,7 +12,10 @@ class Dog
 
   def name
     name
-    breed 
+    breed
   end
 
+  def mutt
+    puts "Mutt"
+  end 
 end
