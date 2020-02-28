@@ -22,6 +22,6 @@ class Dog
   end
 
   def mutt
-    puts "Mutt"
+    Mutt
   end
 end
