@@ -18,10 +18,6 @@ class Dog
   end
 
   def breed
-    breed
-  end
-
-  def Mutt
-    Mutt
+    breed = "Mutt"
   end
 end
