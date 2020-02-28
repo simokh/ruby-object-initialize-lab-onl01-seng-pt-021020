@@ -7,21 +7,21 @@ class Dog
 
   def name
     @name= name
-  end 
+  end
 
-  def breed 
+  def breed
     @breed= breed
   end
 
   def name
     name
-  end 
+  end
   
-  def breed 
+  def breed
     breed
   end
 
   def mutt
     puts "Mutt"
-  end 
+  end
 end
